@@ -11,15 +11,14 @@
 <b>Mail:</b> sawantsameer666@gmail.com
 
 <b>Career Objectives:</b>
-	To be an Computational Researcher and to gain knowledge of mathamathical logic behind Computational Algorithms.
+	To be a Fullstack Web Developer.
 
 <b>Skills:</b>
 
-	Programming language Known: C++, C, Python, Java, .... Insert All Languages You Know..
-	Basic Data Analysis: Insert All Tools, If You Know Any.
-	Database: Insert All DB You Know.
-	Frameworks: Insert All Frameworks You Know.
-	Libraries: Insert All Libraries You Know.
+	Programming language Known: Java, Python, Javascript, C++, C.
+	Basic Data Analysis: Jupyter, NLTK, numpy, pandas, matplotlib, seaborn, Scikit.
+	Database: MySQL, MongoDB.
+	Frameworks: Angular, React, Flash, Django.
 
 <b>Projects:</b>
 
@@ -29,19 +28,18 @@
 	Project Duration: # Months/Years
 	Project Detail: Some Detail/Short Description.
 	Description: Some Long 1000-2000 Word Description about working 
-      of project/ tools used/ purpose of project.
+        of project/ tools used/ purpose of project.
 
 
 <b>Education:</b>
 
 | Degree/Course | Institute/College | University/Board | Percentage/CGPA | Year of Passing |
 | ------------- | ----------------- | ---------------- | --------------- | --------------- |
-| BE (IT) | Some Other College | Mumbai University | 6.00/10.0 | 2023 |
-| HSC (12) | Some College | Maharashtra State Board Of Secondary And Higher Secondary Education | some % | 2019 |
-| SSC (10) | Some School | Maharashtra State Board of Secondary and Higher Secondary Education | some % | 2017 |
+| BE (IT) | A P Shah Institute of Technology | Mumbai University | 8.43/10.0 | 2023 |
+| HSC (12) | Rustomjee Junior College | Maharashtra State Board Of Secondary And Higher Secondary Education | 74% | 2019 |
+| SSC (10) | Shailendra Education Society | Maharashtra State Board of Secondary and Higher Secondary Education | 90% | 2017 |
 
 <b>Declaration:</b> I hereby declare that all the above facts are true to best of my knowledge.
 
 Sameer Sawant.
 
-#### Coursera Certification
