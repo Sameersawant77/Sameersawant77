@@ -22,7 +22,7 @@
 
 <b>Projects:</b>
 
-	<b>Spam Email Detection using Machine Learning</b> 
+	Spam Email Detection using Machine Learning
 	Academic Project.
 	A spam email detection which predicts email as spam or
 	harm. The main machine learning code is done using python, Jupyter
@@ -33,7 +33,7 @@
 	and combination of models.
 	
 	
-	<b>Online Pizza app</b>
+	Online Pizza app
 	Academic Project.
 	An online pizza app using advanced java technologies like
 	hibernate,etc. The front end was made by AngularJS, bootstrap,
