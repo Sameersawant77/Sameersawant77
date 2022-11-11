@@ -10,14 +10,15 @@
 <b>Mail:</b> sawantsameer666@gmail.com
 
 <b>Career Objectives:</b>
-	To be a Fullstack Web Developer.
+	To seek a Successful and Challenging position in an esteemed company and achieve maximum out
+of every opportunity offered.
 
 <b>Skills:</b>
 
-	Programming language Known: Java, Python, Javascript, C++, C.
+	Programming language Known: Java, Python, Javascript.
 	Basic Data Analysis: Jupyter, NLTK, numpy, pandas, matplotlib, seaborn, Scikit.
-	Database: MySQL, MongoDB.
-	Frameworks: Angular, React, Flask.
+	Database: SQL.
+	Frameworks: Angular, React.
 
 <b>Projects:</b>
 
