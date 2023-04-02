@@ -16,9 +16,9 @@ of every opportunity offered.
 <b>Skills:</b>
 
 	Programming language Known: Java, Python, Javascript.
-	Basic Data Analysis: Jupyter, NLTK, numpy, pandas, matplotlib, seaborn, Scikit.
 	Database: SQL.
 	Frameworks: Angular, React.
+	OS: Linux, Windows.
 
 <b>Projects:</b>
 
