@@ -16,8 +16,8 @@ of every opportunity offered.
 <b>Skills:</b>
 
 	Programming language Known: Java, Python, Javascript.
-	Database: SQL.
-	Frameworks: Angular, React.
+	Database: MySQL.
+	Frameworks: React.
 	OS: Linux, Windows.
 
 <b>Projects:</b>
