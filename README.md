@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameersawant77&show_icons=true&locale=en" alt="sameersawant77" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameersawant77&" alt="sameersawant77" /></p>
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
