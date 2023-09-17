@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameersawant77&" alt="sameersawant77" /></p>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/sameersawant777"><img src="https://github.com/Sameersawant77/Sameersawant77/blob/main/devcard.svg" width="400" alt="Sameer Sawant's Dev Card"/></a>
