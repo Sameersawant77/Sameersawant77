@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Java Microservices and Web3**
 
-- 👨‍💻 All of my projects are available at [https://sameer-sawant.netlify.app/](https://sameer-sawant.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://sameer-sawant.netlify.app/)
 
 - 📫 How to reach me **sameersawant7770@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1a0SENgYfCp_Stlnw_lA_OR-bpXLMQzn8/view?usp=sharing](https://drive.google.com/file/d/1a0SENgYfCp_Stlnw_lA_OR-bpXLMQzn8/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qAS1CeVPRG5x-l_nsCgxl5ZEXiiAjcSy/view?usp=sharing)
 
 - 🚀 Fun fact **I possess the extraordinary programming superpower to debug reality itself. With a wave of my keyboard, I can step into the code of the universe, find glitches in the fabric of spacetime, and fix cosmic bugs. My commits? They bring balance to the multiverse! 😄**
 
