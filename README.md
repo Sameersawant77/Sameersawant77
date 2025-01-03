@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameersawant77&label=Profile%20views&color=0e75b6&style=flat" alt="sameersawant77" /> </p>
 
-- 🌱 I’m currently learning **Java Microservices**
+- 🌱 I’m currently learning **Java Microservices and Web3**
 
 - 👨‍💻 All of my projects are available at [https://sameer-sawant.netlify.app/](https://sameer-sawant.netlify.app/)
 
-- 📫 How to reach me **sawantsameer666@gmail.com**
+- 📫 How to reach me **sameersawant7770@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1a0SENgYfCp_Stlnw_lA_OR-bpXLMQzn8/view?usp=sharing](https://drive.google.com/file/d/1a0SENgYfCp_Stlnw_lA_OR-bpXLMQzn8/view?usp=sharing)
 
